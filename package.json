@@ -1,0 +1,12 @@
+{
+  "name": "insales-types",
+  "version": "1.0.0",
+  "description": "Неофициальная типизация TypeScript для разработки на платформе InSales",
+  "dependencies": {
+    "typescript": "^6.0.3"
+  },
+  "scripts": {
+    "build": "npx tsc -p tsconfig.json",
+    "typecheck": "tsc --noEmit"
+  }
+}

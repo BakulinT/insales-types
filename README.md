@@ -1,2 +1,5 @@
-# insales-types
+# Insales Types
+> [!WARNING]
+> Описание типов не полное и будет расширяться
+
 Неофициальная типизация TypeScript для разработки на платформе InSales
